@@ -1,3 +1,3 @@
-# Autodesk-Maya-Model
+# Maya-Model
 
-A human character model built in Autodesk Maya.
+A human character model built in Maya.
